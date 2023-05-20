@@ -3,3 +3,5 @@
 ## Partners
 - Christina Tan
 - Varun Sreedhar
+
+Lonk: [lonk](https://zettabytescode.github.io/Lab7_Starter/)
